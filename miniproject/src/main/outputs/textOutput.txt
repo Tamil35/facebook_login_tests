@@ -1,0 +1,2 @@
+Please enter a valid mobile number or email address.
+Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &).
